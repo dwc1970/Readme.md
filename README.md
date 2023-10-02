@@ -1,4 +1,4 @@
- 💫 Acerca de Mi :
+ 💫 Acerca de Mi : <br><br>
 ¡Hola, soy Dario Walter Carrizo! 👋<br>
 <br><br>
 <img src="https://github.com/dwc1970/Readme.md/assets/108595018/f5434cc0-9584-461b-91c2-7798685b9bf9" alt="Imagen" width="200">
