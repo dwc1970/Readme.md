@@ -1,5 +1,6 @@
 # 💫 Acerca de Mi :
-![image](https://github.com/dwc1970/Readme.md/assets/108595018/f5434cc0-9584-461b-91c2-7798685b9bf9)
+<img src="https://github.com/dwc1970/Readme.md/assets/108595018/f5434cc0-9584-461b-91c2-7798685b9bf9" alt="Imagen" width="200">
+
 
 Por supuesto, aquí tienes una presentación más adecuada para tu README en GitHub:<br><br># ¡Hola, soy Dario Walter Carrizo! 👋<br><br>Actualmente, soy estudiante de la Tecnicatura Superior en Programación en la Universidad Tecnológica Nacional (UTN) Regional San Rafael. Me apasiona el mundo de la tecnología y la programación, y me considero un apasionado del aprendizaje constante y los desafíos que este campo presenta.<br><br>## Mis Habilidades Técnicas 🚀<br><br>- **Lenguajes de Programación:** Java, Node.js, Python.<br>- **Desarrollo Web:** React.<br>- **Ciencia de Datos:** Python para Data Science.<br>- **Comunicaciones:** Transmisión de datos 4G.<br>- **Bases de Datos:** MySQL, PostgreSQL.<br>- **Infraestructura de Datos:** Gestión y almacenamiento eficiente.<br><br><br><br>Soy una persona proactiva que busca constantemente crecer en el mundo de la programación. Creo que los desafíos son oportunidades para aprender y mejorar, y disfruto trabajar en equipo, adaptándome a diferentes dinámicas.<br><br><br><br>Mi principal objetivo es continuar mi desarrollo y crecimiento en el campo de la tecnología y la programación. Estoy comprometido a aportar mis conocimientos y habilidades a proyectos emocionantes y a contribuir al mundo de la tecnología de manera significativa.<br><br>
 
