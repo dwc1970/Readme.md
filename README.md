@@ -1,5 +1,6 @@
-# 💫 Acerca de Mi :
+ 💫 Acerca de Mi :
 ¡Hola, soy Dario Walter Carrizo! 👋<br>
+<br><br>
 <img src="https://github.com/dwc1970/Readme.md/assets/108595018/f5434cc0-9584-461b-91c2-7798685b9bf9" alt="Imagen" width="200">
 
 <br>Actualmente, soy estudiante de la Tecnicatura Superior en Programación en la Universidad Tecnológica Nacional (UTN) Regional San Rafael. Me apasiona el mundo de la tecnología y la programación, y me considero un apasionado del aprendizaje constante y los desafíos que este campo presenta.<br><br>
